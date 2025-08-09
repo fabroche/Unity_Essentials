@@ -527,6 +527,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 199424155241187881, guid: 7674eca9f7e67bb49ac0648a3dd73408,
+        type: 3}
+      propertyPath: m_TagString
+      value: Floor
+      objectReference: {fileID: 0}
+    - target: {fileID: 3500545186888125461, guid: 7674eca9f7e67bb49ac0648a3dd73408,
+        type: 3}
+      propertyPath: m_TagString
+      value: Floor
+      objectReference: {fileID: 0}
+    - target: {fileID: 5665708870403105712, guid: 7674eca9f7e67bb49ac0648a3dd73408,
+        type: 3}
+      propertyPath: m_TagString
+      value: Floor
+      objectReference: {fileID: 0}
     - target: {fileID: 5828665187820138811, guid: 7674eca9f7e67bb49ac0648a3dd73408,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -581,6 +596,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 01_Bedroom_myPrefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 6563582747390213320, guid: 7674eca9f7e67bb49ac0648a3dd73408,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ball
+      objectReference: {fileID: 0}
+    - target: {fileID: 9124463613231755538, guid: 7674eca9f7e67bb49ac0648a3dd73408,
+        type: 3}
+      propertyPath: m_TagString
+      value: Floor
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
